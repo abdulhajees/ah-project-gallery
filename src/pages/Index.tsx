@@ -58,7 +58,7 @@ const Index = () => {
             "url": "https://abdulhajees.in",
             "sameAs": [
               "https://www.linkedin.com/in/abdulhajees",
-              "https://github.com/aj05hacker",
+              "https://github.com/abdulhajees",
               "https://instagram.com/abdul_hajees",
               "https://www.fiverr.com/abdul_hajees"
             ],
@@ -159,7 +159,7 @@ const Index = () => {
                   </span>
                 </a>
                 <a
-                  href="https://github.com/aj05hacker"
+                  href="https://github.com/abdulhajees"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
